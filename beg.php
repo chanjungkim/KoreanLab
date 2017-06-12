@@ -1,1 +1,1 @@
-This is dictionary.
+This is Beginner Room.
